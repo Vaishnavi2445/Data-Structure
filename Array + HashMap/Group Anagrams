@@ -1,7 +1,8 @@
-LINK : https://leetcode.com/problems/group-anagrams/
----
-
 # 🔹 49. Group Anagrams
+
+🔗 **Problem Link:** [LeetCode – Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
+---
 
 ## 📌 Problem Statement
 
@@ -71,4 +72,4 @@ Where:
 
 ---
 
-If you want, I can also give a **more optimized version using character frequency (O(n × k))** for interviews 🚀
+
